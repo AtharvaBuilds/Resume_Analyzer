@@ -263,6 +263,3 @@ numpy
 Academic project. Dataset sourced from Kaggle under public license.
 Model weights subject to HuggingFace and respective model license terms.
 
----
-
-*Built as part of an NLP academic project — March 2026*
